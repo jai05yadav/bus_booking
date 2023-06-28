@@ -1,6 +1,6 @@
 
-A fully functional project based on Bus Ticket Booking System that uses PHP Language with MySQL database. Following PHP project contains all the essential features which can be in use for the second year IT students for their college projects. It has a number of features that will allow users to manage bus routes as well as their bookings. This system as well as the web application’s concept is all clear, it’s the same as real-life scenarios and well-implemented on it. To download free bus ticket booking system project in PHP MySQL with source code files, please scroll down to the bottom of this post for the Download button.
-About Bus Booking System PHP Project
+A fully functional project based on Bus Ticket Booking System that uses html,css,JavaScript and php with MySQL database. It has a number of features that will allow users to manage bus routes as well as their bookings. This system as well as the web application’s concept is all clear, it’s the same as real-life scenarios and well-implemented on it
+About Bus Booking System 
 Moving on, this bus ticket booking system project in PHP focuses mainly on online ticket reservations and route management. Also, the system displays all the lists of available routes according to their prices. In addition, the system allows managing bus information too. This project is divided into two categories: Admin, and Customer. In an overview of this web application, the role of the customer is pretty simple. A customer can only check the ticket’s status using PNR. Here, the admin has to provide the PNR code. As result, the customers can have their bus ticket details such as route, seat, timing, and other information. Besides, all other features fall upon the hands of an administrator.
 
 
